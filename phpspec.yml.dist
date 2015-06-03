@@ -1,0 +1,4 @@
+suites:
+    inquire_suite:
+        namespace: Inquire
+        psr4_prefix: Inquire
